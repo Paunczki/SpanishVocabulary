@@ -7,3 +7,10 @@ Will be using the follow link to learn more spanish
 
 https://1000mostcommonwords.com/1000-most-common-spanish-words/
 
+The words are currently in the format
+    
+    Spanish\tEnglish
+
+My plan is to make these into maybe some type of flashcards, 
+and to provide easy access I might try to make it into a chrome extension
+
