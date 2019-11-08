@@ -1,0 +1,15 @@
+Since this is going to be a chrome extension, 
+I may want to split the words into a dataset in javascript
+But I might want to save to local chrome storage.
+Saving to local chrome extension will be easier to access in the future 
+and I doubt a small datastructure will take up a lot of space
+    -> Want to make it generic where it does not depend on language/list 
+       of words so I can repeat for Russian
+I could also make a server with a database but that will be for future use
+
+
+I then will need to work on a user interface that looks nice 
+
+
+I also need to take into consideration how I am going to save what words a 
+user does well on or has completed and such
